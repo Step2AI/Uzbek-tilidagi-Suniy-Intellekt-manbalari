@@ -8,3 +8,51 @@ O'rganuvchilar uchun sizning Sun'iy Intellekt sohasidagi bilim va tajribalaringi
 
 
 Sahifaga yangi ma'lumot qo'shish uchun: [Yangi ma'lumot qo'shish](https://github.com/Step2AI/Uzbekcha-Suniy-Intellekt-manbalari/blob/main/contributing.md) qismida yozilgan ketma-ketlik asosida ma'lumot qo'shing.
+
+
+## Asosiy bo'limlar
+
+* **[Asosiy tushunchalar](#asosiy-tushunchalar)**
+* **[Algoritmlar](#algoritmlar)**
+* **[Qo'llanilish sohalari](#qollanilish-sohalari)**
+* **[Frameworks](#frameworks)**
+* **[Ilmiy maqolalar](#ilmiy-maqolalar)**
+* **[Ma'lumotlar bazalari](#malumotlar-bazalari)**
+* **[Video dasrliklar](#video-darsliklar)**
+* **[Dastur Kodlari](#dastur-kodlari)**
+* **[Bloglar](#bloglar)**
+* **[Kitoblar](#kitoblar)**
+* **[IT Musobaqalar (Kaggle v.b.)](#it-musobaqalar)**
+
+## Asosiy tushunchalar
+* To do 
+
+## Algoritmlar
+* To Do
+
+## Qo'llanilish sohalari
+* To Do
+
+## Frameworks
+* To Do
+
+## Ilmiy maqolalar
+* To Do
+
+## Ma'lumotlar bazalari
+* To Do
+
+## Video darsliklar
+* To Do
+
+## Dastur kodlari
+* To Do
+
+## Bloglar
+* To Do
+
+## Kitoblar
+* To Do
+
+## IT Musobaqalar (Kaggle, v.b.)
+* To Do
