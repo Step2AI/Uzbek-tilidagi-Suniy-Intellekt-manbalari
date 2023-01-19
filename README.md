@@ -57,7 +57,7 @@ Sahifaga yangi ma'lumot qo'shish uchun: [Yangi ma'lumot qo'shish](https://github
 * To Do
 
 
-###  (Natural Language Processing)
+### Tabiiy tilni qayta ishlash (Natural Language Processing)
 * To Do
 
 
