@@ -14,11 +14,10 @@ Sahifaga yangi ma'lumot qo'shish uchun: [Yangi ma'lumot qo'shish](https://github
 
 * **[Asosiy tushunchalar](#asosiy-tushunchalar)**
 * **[Algoritmlar](#algoritmlar)**
-* **[Qo'llanilish sohalari](#qollanilish-sohalari)**
 * **[Frameworks](#frameworks)**
 * **[Ilmiy maqolalar](#ilmiy-maqolalar)**
 * **[Ma'lumotlar bazalari](#malumotlar-bazalari)**
-* **[Video dasrliklar](#video-darsliklar)**
+* **[Kurslar va Video dasrliklar](#video-darsliklar)**
 * **[Dastur Kodlari](#dastur-kodlari)**
 * **[Bloglar](#bloglar)**
 * **[Kitoblar](#kitoblar)**
@@ -30,9 +29,6 @@ Sahifaga yangi ma'lumot qo'shish uchun: [Yangi ma'lumot qo'shish](https://github
 ## Algoritmlar
 * To Do
 
-## Qo'llanilish sohalari
-* To Do
-
 ## Frameworks
 * To Do
 
@@ -42,8 +38,8 @@ Sahifaga yangi ma'lumot qo'shish uchun: [Yangi ma'lumot qo'shish](https://github
 ## Ma'lumotlar bazalari
 * To Do
 
-## Video darsliklar
-* To Do
+## Kurslar va Video darsliklar
+* [Data Science va Sun'iy Intellekt](https://praktikum.mohirdev.uz/data-science-va-suniy-intellekt)
 
 ## Dastur kodlari
 * To Do
