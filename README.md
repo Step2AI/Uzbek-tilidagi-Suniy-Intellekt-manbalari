@@ -20,9 +20,10 @@ Sahifaga yangi ma'lumot qo'shish uchun: [Yangi ma'lumot qo'shish](https://github
 * **[Kurslar va Video dasrliklar](#kurslar-va-video-darsliklar)**
 * **[Dastur Kodlari](#dastur-kodlari)**
 * **[Qo'llanilish sohalari](#qollanilish-sohalari)**
+* **[Amaldagi loyihalar](#amaldagi-loyihalar)**
 * **[Bloglar](#bloglar)**
 * **[Kitoblar](#kitoblar)**
-* **[IT Musobaqalar (Kaggle v.b.)](#it-musobaqalar)**
+* **[IT Musobaqalar (Kaggle va boshqalar)](#it-musobaqalar)**
 
 ## Asosiy tushunchalar
 * To do 
@@ -64,11 +65,14 @@ Sahifaga yangi ma'lumot qo'shish uchun: [Yangi ma'lumot qo'shish](https://github
 ### Kiber xavfsizlik (Cyber Security)
 * To Do
 
+## Amaldagi loyihalar
+* To Do
+
 ## Bloglar
 * To Do
 
 ## Kitoblar
-* To Do
+* [Сунъий интеллект асослари. Машинавий ўқитиш](https://asaxiy.uz/product/skomolovshrahmatov-sunii-intellekt-asoslari-mashinavii-ukitish) (Сирожиддин Комолов, Шерзод Рахматов)
 
-## IT Musobaqalar (Kaggle, v.b.)
+## IT Musobaqalar
 * To Do
