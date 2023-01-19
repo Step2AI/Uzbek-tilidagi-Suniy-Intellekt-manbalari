@@ -39,7 +39,7 @@ Sahifaga yangi ma'lumot qo'shish uchun: [Yangi ma'lumot qo'shish](https://github
 * To Do
 
 ## Kurslar va Video darsliklar
-* [Data Science va Sun'iy Intellekt](https://praktikum.mohirdev.uz/data-science-va-suniy-intellekt)
+* [Data Science va Sun'iy Intellekt](https://praktikum.mohirdev.uz/data-science-va-suniy-intellekt) (Mohirdev jamoasi, Anvar Narzullaev)
 
 ## Dastur kodlari
 * To Do
