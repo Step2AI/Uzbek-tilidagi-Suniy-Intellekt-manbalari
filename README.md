@@ -7,4 +7,4 @@ Ushbu sahifa [Step2AI](https://step2ai.com/) web sayti a'zolari tomonidan qo'lla
 O'rganuvchilar uchun sizning Sun'iy Intellekt sohasidagi bilim va tajribalaringiz foydali va samarali bo'lishi mumkin. Shu sababdan bilimlaringizni [web saytimiz](https://step2ai.com/) yoki boshqa platformalarda **O'zbek tilida** boshqalar bilan ham baham ko'ring.
 
 
-Sahifaga yangi ma'lumot qo'shish uchun: Yangi ma'lumot qo'shish qismida yozilgan ketma-ketlik asosida ma'lumot qo'shing.
+Sahifaga yangi ma'lumot qo'shish uchun: [Yangi ma'lumot qo'shish](https://github.com/Step2AI/Uzbekcha-Suniy-Intellekt-manbalari/blob/main/contributing.md) qismida yozilgan ketma-ketlik asosida ma'lumot qo'shing.
