@@ -1,5 +1,5 @@
 # O'zbekcha Suniy Intellekt Manbalari
-Ushbu sahifa orqali **O'zbekistonda** sun'iy intellekt (Artificial Intellegence) sohasining asosiy tashkil etuvchilari Deep Learning (hozircha tarjima qilinmadi) va moshina o'rganishi (Machine Learning) sohalarida qilinga ishlar (blog, video darslik, ilmiy ko'nikmalar, kod va algoritmlar, kutubxona va vositalari) haqida ma'lumot olishingiz mumkin.
+Ushbu sahifa orqali **O'zbekistonda** sun'iy intellekt (Artificial Intellegence) sohasining asosiy tashkil etuvchilari Deep Learning (hozircha tarjima qilinmadi) va Mashinaviy o'qitish (Machine Learning) sohalarida qilinga ishlar (blog, video darslik, ilmiy ko'nikmalar, kod va algoritmlar, kutubxona va vositalari) haqida ma'lumot olishingiz mumkin.
 
 
 Ushbu sahifa [Step2AI](https://step2ai.com/) web sayti a'zolari tomonidan qo'llab quvvatlanmoqda. Bizni [Telegram](https://t.me/step2ai), [Twitter](https://twitter.com/step2aiofficial), [Github](https://github.com/Step2AI) va boshqa platformalarda ham kuzatib boring. 
