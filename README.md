@@ -17,8 +17,9 @@ Sahifaga yangi ma'lumot qo'shish uchun: [Yangi ma'lumot qo'shish](https://github
 * **[Frameworks](#frameworks)**
 * **[Ilmiy maqolalar](#ilmiy-maqolalar)**
 * **[Ma'lumotlar bazalari](#malumotlar-bazalari)**
-* **[Kurslar va Video dasrliklar](#video-darsliklar)**
+* **[Kurslar va Video dasrliklar](#kurslar-va-video-darsliklar)**
 * **[Dastur Kodlari](#dastur-kodlari)**
+* **[Qo'llanilish sohalari](#qollanilish-sohalari)**
 * **[Bloglar](#bloglar)**
 * **[Kitoblar](#kitoblar)**
 * **[IT Musobaqalar (Kaggle v.b.)](#it-musobaqalar)**
@@ -30,6 +31,13 @@ Sahifaga yangi ma'lumot qo'shish uchun: [Yangi ma'lumot qo'shish](https://github
 * To Do
 
 ## Frameworks
+### PyTorch
+* To Do
+
+### Tensorflow
+* To Do
+
+### Keras
 * To Do
 
 ## Ilmiy maqolalar
@@ -42,6 +50,18 @@ Sahifaga yangi ma'lumot qo'shish uchun: [Yangi ma'lumot qo'shish](https://github
 * [Data Science va Sun'iy Intellekt](https://praktikum.mohirdev.uz/data-science-va-suniy-intellekt) (Mohirdev jamoasi, Anvar Narzullaev)
 
 ## Dastur kodlari
+* To Do
+
+## Qo'llanilish sohalari
+### Kompyuter ko'rishi (Computer Vision)
+* To Do
+
+
+###  (Natural Language Processing)
+* To Do
+
+
+### Kiber xavfsizlik (Cyber Security)
 * To Do
 
 ## Bloglar
