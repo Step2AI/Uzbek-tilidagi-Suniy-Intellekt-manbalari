@@ -34,7 +34,7 @@ Tavsiya etmoqchi bo'lgan havola (link) ning xavfsiz ekanligiga ishonch hosil qil
 
 Havola tushunarli qolishi uchun havolani qisqatirib beruvchi servislardan foydalanmasilik tavsiya etiladi.
 
-Tavsiya etmoqchi bo'lgan ma'lumotni kontenti ishonchli ekanligiga ahamiyat berishni so'raymiz. Paroli bo'lgan .zip, .rar, .tar, .tar.gz kabi kompreslangan kontentni va bu kontentni baham ko'rgan (share) sahifani taqdim etmang.
+Tavsiya etmoqchi bo'lgan ma'lumotni kontenti ishonchli ekanligiga ahamiyat berishni so'raymiz. Parol bilan himoyalangan .zip, .rar, .tar, .tar.gz kabi kompreslangan kontentni va bu kontentni baham ko'rgan (share) sahifani taqdim etmang.
 
 ## Javobgarliklar
 Toʻlov evaziga taqdim etilgan kontentni (onlayn oʻquv kurslar, kitoblar, videolar) mualliflik huquqi egasi yoki egalarining huquqlarini hisobga olgan holda amalga oshirilishi kerak.
