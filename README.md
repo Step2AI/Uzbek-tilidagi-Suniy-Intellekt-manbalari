@@ -72,8 +72,8 @@ Sahifaga yangi ma'lumot qo'shish uchun: [Yangi ma'lumot qo'shish](https://github
 * To Do
 
 ## Kitoblar
-* [Сунъий интеллект асослари. Машинавий ўқитиш](https://asaxiy.uz/product/skomolovshrahmatov-sunii-intellekt-asoslari-mashinavii-ukitish) (Сирожиддин Комолов, Шерзод Рахматов)
-* [Pythonda dasturlash asoslari](https://asaxiy.uz/uz/product/anvar-narzullaev-pythonda-dasturlash-asoslari) (Anvar Narzullayev)
+* [Сунъий интеллект асослари. Машинавий ўқитиш](https://asaxiy.uz/product/skomolovshrahmatov-sunii-intellekt-asoslari-mashinavii-ukitish) (Сирожиддин Комолов, Шерзод Рахматов, 2022)
+* [Pythonda dasturlash asoslari](https://asaxiy.uz/uz/product/anvar-narzullaev-pythonda-dasturlash-asoslari) (Anvar Narzullayev, 2-Nashr, 2021)
 
 ## IT Musobaqalar
 * To Do
