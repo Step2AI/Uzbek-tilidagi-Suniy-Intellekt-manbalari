@@ -36,7 +36,7 @@ Sahifaga yangi ma'lumot qo'shish uchun: [Yangi ma'lumot qo'shish](https://github
 * To Do
 
 ### Tensorflow
-* To Do
+* [Tensorflowjs to'liq kurs - "From 0 to Guru"](https://sammi.ac/course/machine-learning-tensorflowjs-va-suniy-intelekt) (Online kurs, Samar Badriddinov, 2022)
 
 ### Keras
 * To Do
